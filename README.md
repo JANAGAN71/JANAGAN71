@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JANAGAN71
-- 👀 I’m interested in coding, debugging, problem solving
-- 🌱 I’m currently learning UG degree in Electronics and communication engineering
+- 👀 I’m interested in coding, debugging, problem solving, Web development, Meern stack
+- 🌱 I’m currently pursuing UG degree in Electronics and communication engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
