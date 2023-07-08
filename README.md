@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @JANAGAN71
-- 👀 I’m interested in coding, debugging, problem solving, Web development, Meern stack
-- 🌱 I’m currently pursuing UG degree in Electronics and communication engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m JANAGAN R
+- Description:
+  	Aspiring engineering graduate with fundamental knowledge of software design, development, and testing. Seeking a role which allows consistent learning and perfecting my skills and to secure employment with a reputable company where I can make use of my interpersonal skills to achieve the goals of the company.
+  
+- 🌱 I’m currently pursuing UG degree in Electronics and communication engineering (2020 - 2024)
+- 👀 I’m really interested in learning Advanced 
+- I'm very passinote 
 - 📫 How to reach me ...
+- LinkedIn Profile link : https://www.linkedin.com/in/janagan-r-12b659234
+- Personal Mail Id : janaganofficial@gmail.com
+- Phone No : 7339270010
+- PortFolio Link : https://janagan71.github.io/My_first_Portfolio/
 
-<!---
-JANAGAN71/JANAGAN71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
