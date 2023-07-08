@@ -3,7 +3,7 @@
 - #About
 - 	Aspiring engineering graduate with fundamental knowledge of software design, development, and testing. Seeking a role which allows consistent learning and perfecting my skills and to secure employment with a reputable company where I can make use of my interpersonal skills to achieve the goals of the company.
   
-  🔭 I’m currently pursuing UG degree in Electronics and communication engineering (2020 - 2024)
+- 🔭 I’m currently pursuing UG degree in Electronics and communication engineering (2020 - 2024)
 - 🤔 I’m looking for a job opportunities
 - 🌱 I’m currently working at Web Development related projects
 - ⚡ Fun fact: Follow what your heart says.
